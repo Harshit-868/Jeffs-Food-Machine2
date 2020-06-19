@@ -1,0 +1,20 @@
+canvas {
+  border: 3px solid black;
+}
+
+/* ------------------------- Inputs ------------------------- */
+button {
+  font-family: 'Times New Roman', Serif;
+  font-size: 15px;
+  font-weight: 600;
+  width: 125px;
+  height: 25px;
+  background-color: white;
+  border-color: royalblue;
+  color: rgb(50, 75, 225);
+} button:hover {
+  cursor: pointer;
+  transition: 0.5s;
+  background-color: royalblue;
+  color: white;
+}
